@@ -4,7 +4,10 @@
 ### 🤔 I am A Freelance Full Stack Developer
 ### ⚡ I specialize in creating and Developing Website and Applications
 ### 🌱 I specialize in using Adobe Applications
-
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 Technical Skills:
  ✔️ Python
  ✔️ Java
