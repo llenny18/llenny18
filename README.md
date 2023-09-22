@@ -5,6 +5,24 @@
 ### ⚡ I specialize in creating and Developing Website and Applications
 ### 🌱 I specialize in using Adobe Applications
 
+Technical Skills:
+ ✔️ Python
+ ✔️ Java
+ ✔️ React.Js
+ ✔️ Vanilla Javascript
+ ✔️ Android JS
+ ✔️ C#, C++ & C
+ ✔️ Visual Basic
+
+Database Handling:
+ ✔️ MS SQL
+ ✔️ My SQL with PHP
+ ✔️ XAMPP
+ ✔️ WAMPP
+ ✔️ MS Access
+ ✔️ MS Excel
+ 
+
 <!--
 **llenny18/llenny18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
