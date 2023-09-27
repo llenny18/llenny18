@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Python Machine Learning
+### 🔭 I’m currently working on Python Machine Learning and Full Stack Web Development
 ### 😄 My Favorite Language is Python
 ### 🤔 I am A Freelance Full Stack Developer
 ### ⚡ I specialize in creating and Developing Website and Applications
