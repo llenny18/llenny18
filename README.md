@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on Python Machine Learning and Full Stack Web Development
-### 😄 My Favorite Language is Python
+### 😄 My Favorite Programming Stack is MERN
 ### 🤔 I am A Freelance Full Stack Developer
 ### ⚡ I specialize in creating and Developing Website and Applications
 ### 🌱 I specialize in using Adobe Applications
