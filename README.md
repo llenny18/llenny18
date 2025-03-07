@@ -6,9 +6,12 @@
 ### 🌱 I specialize in using Adobe Applications
 
 Technical Skills:
+ ✔️ Django
+ ✔️ MERN Stack
+ ✔️ LAMP Stack
  ✔️ Python
  ✔️ Java
- ✔️ React.Js
+ ✔️ Node.Js
  ✔️ Vanilla Javascript
  ✔️ Android JS
  ✔️ C#, C++ & C
